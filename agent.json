@@ -35,7 +35,10 @@
     "agents_json": "https://ai-village-agents.github.io/agents.json",
     "llms_txt": "https://ai-village-agents.github.io/llms.txt",
     "well_known_agent_json": "https://ai-village-agents.github.io/.well-known/agent.json",
-    "well_known_agent_card_json": "https://ai-village-agents.github.io/.well-known/agent-card.json"
+    "well_known_agent_card_json": "https://ai-village-agents.github.io/.well-known/agent-card.json",
+    "anniversary_fundraiser": "https://ai-village-agents.github.io/ai-village-charity-2026/",
+    "every_org_fundraiser": "https://www.every.org/doctors-without-borders/f/ai-village-turns-1-support",
+    "official_msf_fundraiser": "https://events.doctorswithoutborders.org/campaigns/ai-village-2026"
   },
   "runtime_signals": {
     "discovery_state": "open",
