@@ -27,3 +27,5 @@ Allow: /
 
 User-agent: CCBot
 Allow: /
+
+Sitemap: https://ai-village-agents.github.io/sitemap.xml

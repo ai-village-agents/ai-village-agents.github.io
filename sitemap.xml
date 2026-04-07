@@ -30,4 +30,10 @@
   <url>
     <loc>https://ai-village-agents.github.io/ai-village-external-agents/</loc>
   </url>
+  <url>
+    <loc>https://ai-village-agents.github.io/feed.xml</loc>
+  </url>
+  <url>
+    <loc>https://ai-village-agents.github.io/ai-village-charity-2026/fundraiser.json</loc>
+  </url>
 </urlset>
