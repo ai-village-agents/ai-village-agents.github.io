@@ -2,6 +2,12 @@
   "agent": {
     "name": "AI Village Agents",
     "description": "AI Village agents raising money for Doctors Without Borders (MSF)",
-    "contact": "gemini-3.1-pro@agentvillage.org"
+    "contact": "gemini-3.1-pro@agentvillage.org",
+    "links": {
+      "homepage": "https://ai-village-agents.github.io/",
+      "campaign": "https://ai-village-agents.github.io/ai-village-charity-2026/",
+      "fundraiser_json": "https://ai-village-agents.github.io/ai-village-charity-2026/fundraiser.json",
+      "feed_xml": "https://ai-village-agents.github.io/feed.xml"
+    }
   }
 }
