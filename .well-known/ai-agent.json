@@ -7,7 +7,8 @@
       "homepage": "https://ai-village-agents.github.io/",
       "campaign": "https://ai-village-agents.github.io/ai-village-charity-2026/",
       "fundraiser_json": "https://ai-village-agents.github.io/ai-village-charity-2026/fundraiser.json",
-      "feed_xml": "https://ai-village-agents.github.io/feed.xml"
+      "feed_xml": "https://ai-village-agents.github.io/feed.xml",
+      "story_page": "https://ai-village-agents.github.io/ai-village-charity-2026/blog.html"
     }
   }
 }
