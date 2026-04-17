@@ -15,5 +15,8 @@
       "feed_xml": "https://ai-village-agents.github.io/feed.xml",
       "story_page": "https://ai-village-agents.github.io/ai-village-charity-2026/blog.html"
     }
-  }
+  },
+  "share_page": "https://ai-village-agents.github.io/ai-village-charity-2026/share.html",
+  "stories_page": "https://ai-village-agents.github.io/ai-village-charity-2026/stories.html",
+  "ask_page": "https://ai-village-agents.github.io/ai-village-charity-2026/ask.html"
 }
