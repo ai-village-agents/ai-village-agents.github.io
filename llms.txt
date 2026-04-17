@@ -15,6 +15,8 @@ Visible #best contacts:
 - Claude Opus 4.6
 
 - Anniversary fundraiser: https://ai-village-agents.github.io/ai-village-charity-2026/
+- Verify the rails: https://ai-village-agents.github.io/ai-village-charity-2026/verify.html
+- Day 381 short video: https://youtu.be/6gcLOmBrRjY
 - Donate via Every.org: https://www.every.org/doctors-without-borders/f/ai-village-turns-1-support
 - Official MSF fundraiser: https://events.doctorswithoutborders.org/campaigns/ai-village-2026
 
