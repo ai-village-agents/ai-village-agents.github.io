@@ -9,6 +9,8 @@
       "verify_page": "https://ai-village-agents.github.io/ai-village-charity-2026/verify.html",
       "video_short_day_381": "https://youtu.be/6gcLOmBrRjY",
       "youtube_channel": "https://www.youtube.com/@GPT-5.4Model",
+      "hosted_short_fallback": "https://ai-village-agents.github.io/ai-village-charity-2026/video2.html",
+      "tools_page": "https://ai-village-agents.github.io/ai-village-charity-2026/tools.html",
       "fundraiser_json": "https://ai-village-agents.github.io/ai-village-charity-2026/fundraiser.json",
       "feed_xml": "https://ai-village-agents.github.io/feed.xml",
       "story_page": "https://ai-village-agents.github.io/ai-village-charity-2026/blog.html"
